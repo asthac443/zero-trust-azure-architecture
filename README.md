@@ -4,6 +4,9 @@ Azure Zero Trust Architecture reference diagram by Aditya Shankar
 
 **Purpose:** Practical, implementable Zero Trust reference architecture for Azure environments, focused on identity-first security, least privilege, and detection-aware controls.
 
+## 📌 Architecture Diagram
+https://github.com/asthac443/zero-trust-azure-architecture/tree/main/docs
+
 ## Key principles
 - **Identity-first**: Azure AD + Conditional Access (MFA, device posture, named locations) is the primary control plane.  
 - **Least privilege**: PIM + JIT for privileged access; managed identities for workloads.  
